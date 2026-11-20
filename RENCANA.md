@@ -41,4 +41,4 @@ handshake contoh §1.2/§1.3 di dalam RFC itu sendiri.
 
 - [x] Semua uji irisan 1–3 hijau.
 - [x] README.md + CATATAN.md lengkap.
-- [ ] Terbit di github.com/h0c0de/build-your-own-websocket-python
+- [x] Terbit di github.com/h0c0de/build-your-own-websocket-python
